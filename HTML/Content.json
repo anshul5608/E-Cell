@@ -1,0 +1,161 @@
+[
+    {
+        "position": "Secretary",
+        "members": [
+            {
+                "id": 28,
+                "name": "Anukriti Sethi",
+                "position": "Secretary",
+                "email": "a_sethi@ph.iitr.ac.in",
+                "mobile": "70145 20726",
+                "image": "http://api.ecelliitr.org/media_files/team/DSC02809.JPG",
+                "quote": "Believe you can and you are halway there.",
+                "fblink": "null",
+                "linkedin": "https://www.linkedin.com/in/anukriti-sethi-4313b222b/",
+                "member_type": "Secretary"
+            }
+        ]
+    },
+    {
+        "position": "Additional Secretary",
+        "members": [
+            {
+                "id": 23,
+                "name": "Yashasvi Choudhary",
+                "position": "Additional Secretary",
+                "email": "y_choudhary@ce.iitr.ac.in",
+                "mobile": "9685832021",
+                "image": "http://api.ecelliitr.org/media_files/team/IMG_5116.jpg",
+                "quote": "Manifesting Dreams",
+                "fblink": "null",
+                "linkedin": "https://www.linkedin.com/in/yashasvi-choudhary-633a8a22a/",
+                "member_type": "Additional Secretary"
+            },
+            {
+                "id": 27,
+                "name": "Lakshya Agarwal",
+                "position": "Additional Secretary",
+                "email": "l_agarwal@ce.iitr.ac.in",
+                "mobile": "8882417980",
+                "image": "http://api.ecelliitr.org/media_files/team/WhatsApp_Image_2024-10-26_at_2.47.35_AM.jpeg",
+                "quote": "Success is walking from failure to failure with no loss of enthusiasm",
+                "fblink": "null",
+                "linkedin": "https://www.linkedin.com/in/lakshya-agarwal-38030622b/",
+                "member_type": "Additional Secretary"
+            }
+        ]
+    },
+    {
+        "position": "Heads",
+        "members": [
+            {
+                "id": 11,
+                "name": "Dewansh Upadhyay",
+                "position": "Head of Technical Affairs, E-Summit'25",
+                "email": "dewansh_u@me.iitr.ac.in",
+                "mobile": "8604435220",
+                "image": "http://api.ecelliitr.org/media_files/team/Screenshot_2024-11-04_061135.png",
+                "quote": "Always aim to come Second.",
+                "fblink": "https://www.facebook.com/dewansh.upadhyay.752/",
+                "linkedin": "https://www.linkedin.com/in/dewansh-upadhyay-788365255/",
+                "member_type": "Heads"
+            },
+            {
+                "id": 14,
+                "name": "Riya Jindal",
+                "position": "Head of Technical Operations",
+                "email": "riya_j@me.iitr.ac.in",
+                "mobile": "7719653405",
+                "image": "http://api.ecelliitr.org/media_files/team/WhatsApp_Image_2024-09-29_at_23.32.55_d11dbe86.jpg",
+                "quote": "Out of difficulties grow miracles.",
+                "fblink": "null",
+                "linkedin": "https://www.linkedin.com/in/riya-jindal-a16648250/",
+                "member_type": "Heads"
+            },
+            {
+                "id": 16,
+                "name": "Shubh Seksaria",
+                "position": "Co-Convenor E-Summit'25",
+                "email": "shubh_s@mt.iitr.ac.in",
+                "mobile": "9821155405",
+                "image": "http://api.ecelliitr.org/media_files/team/DSC02706.JPG",
+                "quote": "You have to dream first to achieve it",
+                "fblink": "null",
+                "linkedin": "null",
+                "member_type": "Heads"
+            },
+            {
+                "id": 18,
+                "name": "Aashi Jain",
+                "position": "Head of E-Club",
+                "email": "aashi_j1@me.iitr.ac.in",
+                "mobile": "9711268234",
+                "image": "http://api.ecelliitr.org/media_files/team/DSC02770.jpg",
+                "quote": "\"The results you achieve will be in direct proportion to the effort you apply!\"",
+                "fblink": "null",
+                "linkedin": "https://www.linkedin.com/in/aashijainiitr/",
+                "member_type": "Heads"
+            },
+            {
+                "id": 20,
+                "name": "Yash Talwar",
+                "position": "Head of Startup training and development",
+                "email": "yash_t@mt.iitr.ac.in",
+                "mobile": "8890927020",
+                "image": "http://api.ecelliitr.org/media_files/team/WhatsApp_Image_2024-09-29_at_23.32.57_87990910.jpg",
+                "quote": "\" The secret to getting ahead is getting started. \" — Mark Twain",
+                "fblink": "null",
+                "linkedin": "http://www.linkedin.com/in/yashhtalwar",
+                "member_type": "Heads"
+            },
+            {
+                "id": 22,
+                "name": "Mudit Tuteja",
+                "position": "Head of Zero to One",
+                "email": "mudit_t@ece.iitr.ac.in",
+                "mobile": "7988143858",
+                "image": "http://api.ecelliitr.org/media_files/team/DSC02793.JPG",
+                "quote": "Luck is a dividend of sweat",
+                "fblink": "null",
+                "linkedin": "https://www.linkedin.com/in/mudit-tuteja-25054b253?utm_source=share&utm_campaign=share_via&utm_conte",
+                "member_type": "Heads"
+            },
+            {
+                "id": 24,
+                "name": "Vidish Mishra",
+                "position": "Head of PR and Marketing, Co-Curator TEDxIITRoorke",
+                "email": "vidish_m@ch.iitr.ac.in",
+                "mobile": "7224084734",
+                "image": "http://api.ecelliitr.org/media_files/team/DSC02684_1.jpg",
+                "quote": "The more you fail, the better you succeed",
+                "fblink": "null",
+                "linkedin": "https://www.linkedin.com/in/vidish-mishra-0a3322251/",
+                "member_type": "Heads"
+            },
+            {
+                "id": 26,
+                "name": "Yusuf Topiwala",
+                "position": "Head of Networking and Outreach",
+                "email": "yusuf_t@ece.iitr.ac.in",
+                "mobile": "7224027007",
+                "image": "http://api.ecelliitr.org/media_files/team/yusuf.jpg",
+                "quote": "Loyalty is a two way street. If i'm asking it from you, then you're getting it from me. -  Harvey Specter",
+                "fblink": "null",
+                "linkedin": "https://www.linkedin.com/in/yusuf-topiwala-1a6945275/",
+                "member_type": "Heads"
+            },
+            {
+                "id": 29,
+                "name": "Keshav Nand Goyal",
+                "position": "Convenor of E-Summit'25",
+                "email": "keshav_ng@ce.iitr.ac.in",
+                "mobile": "8290284808",
+                "image": "http://api.ecelliitr.org/media_files/team/Screenshot_2024-11-04_030200.png",
+                "quote": "Enough with the herd mentality, Why not focus on real growth and impact creation instead?",
+                "fblink": "null",
+                "linkedin": "https://www.linkedin.com/in/keshav-nand-goyal-b45742262/",
+                "member_type": "Heads"
+            }
+        ]
+    }
+]
